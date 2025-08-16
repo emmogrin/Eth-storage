@@ -132,6 +132,5 @@ Ensure stable Wi-Fi, contribution may take hours.
 
 Keep enough free storage in Termux home.
 
-If your session times out, just re-run npx phase2cli contribute — it resumes from where you left off.
 
 
