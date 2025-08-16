@@ -13,7 +13,7 @@
 
 1️⃣ Enter Ubuntu
 
-[Start here if you're using mobile phone](https://x.com/thecryptoBike/status/1947220001649479951?t=mz_vSrkJBHvnYBpuG4JFWA&s=19)
+[Start here if you're using mobile phone... once done with the setup proceed to step 2](https://x.com/thecryptoBike/status/1947220001649479951?t=mz_vSrkJBHvnYBpuG4JFWA&s=19)
 
 Skip to the next step if on PC/VPS 
 
@@ -91,6 +91,8 @@ This keeps your session running
 ```
 npx phase2cli contribute -c ethstorage-v1-trusted-setup-ceremony
 ```
+[![IMG-20250816-WA0001.jpg](https://i.postimg.cc/fTKV8dFm/IMG-20250816-WA0001.jpg)](https://postimg.cc/nCXVzXnh)
+
 Press Enter for random contribution, or type your own values.
 
 
