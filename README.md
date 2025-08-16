@@ -66,6 +66,9 @@ npm install @p0tion/phase2cli
 ```
 npx phase2cli auth
 ```
+
+[![IMG-20250816-WA0000.jpg](https://i.postimg.cc/vmBzXbZL/IMG-20250816-WA0000.jpg)](https://postimg.cc/ZWGp5k3C)
+
 Open the URL provided: 
 ```
 https://github.com/login/device
