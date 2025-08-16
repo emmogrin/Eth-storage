@@ -1,3 +1,16 @@
+
+
+# ⚡EthStorage Trusted Setup Guide (Mobile-Friendly)
+
+## By Saint Khen
+
+## This guide shows you how to join the EthStorage trusted setup ceremony directly from your QEMU Debian (x86_64 on Termux) environment or VPS/PC.
+## It’s fully manual — transparent, beginner-friendly, and copy-paste ready.
+
+
+
+
+
 1️⃣ Enter Ubuntu
 
 [Start here if you're using mobile phone](https://x.com/thecryptoBike/status/1947220001649479951?t=mz_vSrkJBHvnYBpuG4JFWA&s=19)
